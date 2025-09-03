@@ -1,4 +1,4 @@
-# Evaluate a manufacturing process
+# Evaluate a manufacturing process (SQL)
 
 ## 🎯Objective
 Analyze the manufacturing_parts table and create an alert that flags whether the height of a product is within the control limits for each operator.
